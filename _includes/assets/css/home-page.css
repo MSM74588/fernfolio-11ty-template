@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600;900&display=swap');
+
 .home-page {
   max-width: 900px;
   margin: 0 auto;
@@ -65,7 +67,7 @@
 
 .hero__title {
   margin-top: 0;
-  font-family: monospace;
+  font-family: 'Poppins', sans-serif;
 }
 
 @media (min-width: 1024px) {
