@@ -65,6 +65,7 @@
 
 .hero__title {
   margin-top: 0;
+  font-family: monospace;
 }
 
 @media (min-width: 1024px) {
